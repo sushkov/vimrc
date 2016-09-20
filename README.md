@@ -10,3 +10,6 @@ cd ~/.vim
 chmod +x install_vimrc.sh
 ./install_vimrc.sh
 ```
+**3.** Install Plugins:<br>
+Launch `vim` and run `:PluginInstall`<br>
+To install from command line: `vim +PluginInstall +qall`
