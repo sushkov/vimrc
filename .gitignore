@@ -1,6 +1,2 @@
 # Folders
 session/
-
-#Vundle directory for plugins
-/bundle/*
-!/bundle/Vundle.vim
