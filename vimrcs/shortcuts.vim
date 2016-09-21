@@ -38,3 +38,9 @@ menu Encoding.Write.koi-8r<Tab><F8> :set fileencoding=koi8-r<CR>
 menu Encoding.Write.cp866<Tab><F8> :set fileencoding=cp866<CR>
 nmap <F8> :emenu Encoding.Write.
 imap <F8> <Esc>:emenu Encoding.Write.
+
+"['Startify' plugin shortcuts]"
+nmap <S-S> :Startify<CR>
+
+"['NerdTree' plugin shortcuts]"
+nmap <S-F> :NERDTreeToggle<CR>
