@@ -28,10 +28,6 @@ set mousemodel=extend
 "[Hide mouse while printing the text]"
 set mousehide
 
-"[Visualisation settings]"
-colorscheme gruvbox "https://github.com/morhetz/gruvbox
-set background=dark
-
 "[Turn backup off and value of history]"
 set nobackup
 set noswapfile
