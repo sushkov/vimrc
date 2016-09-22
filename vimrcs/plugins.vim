@@ -20,6 +20,8 @@ call vundle#begin()
     Plugin 'mhinz/vim-startify'
     "Resize windows
     Plugin 'jimsei/winresizer'
+    "Git integration
+    Plugin 'tpope/vim-fugitive'
 call vundle#end()
 
 filetype plugin indent on
